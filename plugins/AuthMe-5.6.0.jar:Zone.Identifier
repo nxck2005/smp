@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/AuthMe/AuthMeReloaded/releases/tag/5.6.0
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/8662641/37b2da9f-ceaf-4bae-963e-e3a66bc6ae2e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250509%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250509T011226Z&X-Amz-Expires=300&X-Amz-Signature=0096a86bd3e1de301800da694799b88c25f067cbde716149405940bd13307598&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DAuthMe-5.6.0.jar&response-content-type=application%2Foctet-stream
