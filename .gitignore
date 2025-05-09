@@ -1,0 +1,8 @@
+logs/
+cache/
+plugins/*/*.log
+plugins/*/config.yml.bak
+paper-*.jar
+world/
+world_nether/
+world_the_end/
