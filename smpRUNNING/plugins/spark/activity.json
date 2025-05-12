@@ -1,0 +1,40 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "DeadBeatGaming",
+      "uniqueId": "d14c23a2-f795-438f-b4fb-e7e9f5fb3a54"
+    },
+    "time": 1747015955298,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/7sDwWQgJjT"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "CONSOLE"
+    },
+    "time": 1747014937329,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/rzcHnlbGcD"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "DeadBeatGaming",
+      "uniqueId": "d14c23a2-f795-438f-b4fb-e7e9f5fb3a54"
+    },
+    "time": 1746886619158,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/n7QmBtRITx"
+    }
+  }
+]

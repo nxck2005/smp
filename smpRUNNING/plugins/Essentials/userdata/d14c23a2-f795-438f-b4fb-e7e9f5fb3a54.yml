@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 117.213.200.2
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1747017488723
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747017962629
+  login: 1747012847026
+money: '0'
+last-account-name: DeadBeatGaming
+nickname: §c§lNick
+logoutlocation:
+  world: 210aa163-437f-4d0b-ad96-44c40bce8b43
+  world-name: world
+  x: -1471.0909099931473
+  y: 64.0
+  z: -1386.800802469491
+  yaw: -147.90008544921875
+  pitch: 5.249979019165039
+lastlocation:
+  world: 0fcc35f9-46fb-447f-a995-0cd98061f59b
+  world-name: world_nether
+  x: 52.30000001192093
+  y: 31.875
+  z: -52.3086505651125
+  yaw: 104.0009765625
+  pitch: 25.799896240234375

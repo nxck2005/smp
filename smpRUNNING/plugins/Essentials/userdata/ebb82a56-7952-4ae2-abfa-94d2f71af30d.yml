@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 180.150.37.117
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746891137534
+  login: 1746886391873
+money: '0'
+last-account-name: ignOli
+logoutlocation:
+  world: 210aa163-437f-4d0b-ad96-44c40bce8b43
+  world-name: world
+  x: -255.1430048148879
+  y: 64.5625
+  z: -7998.958686756269
+  yaw: -145.50030517578125
+  pitch: 36.749961853027344
